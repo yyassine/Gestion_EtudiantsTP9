@@ -1,0 +1,11 @@
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\netstandard2.0\Gestion_Etudiants.csproj.CoreCompileInputs.cache
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\netstandard2.0\Gestion_Etudiants.AssemblyInfoInputs.cache
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\netstandard2.0\Gestion_Etudiants.AssemblyInfo.cs
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\bin\Debug\netstandard2.0\Gestion_Etudiants.deps.json
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\bin\Debug\netstandard2.0\Gestion_Etudiants.dll
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\bin\Debug\netstandard2.0\Gestion_Etudiants.pdb
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\netstandard2.0\Gestion_Etudiants.csproj.CopyComplete
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\netstandard2.0\Gestion_Etudiants.dll
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\netstandard2.0\Gestion_Etudiants.pdb
+C:\Users\Abdelkrim\source\repos\Gestion_Etudiants\Gestion_Etudiants\obj\Debug\netstandard2.0\Gestion_Etudiants.csprojAssemblyReference.cache
